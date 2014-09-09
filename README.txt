@@ -1,4 +1,5 @@
-This project requires DirectX 11 and thus a graphics card which supports this version. It is not possible to run this demo on older hardware because I haven't implemented an alternative way of computing the particle's position.
+This project requires DirectX 11 and thus a graphics card which supports this version. It is not possible to run this demo 
+on older hardware because I haven't implemented an alternative way of computing the particle's position.
 
 [KEYS]
 TAB = Show FPS and mouse coordinates
